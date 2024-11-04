@@ -24,18 +24,21 @@
 
 ## Storyboard
 <p>
-    <img src="doc/storyboard.png" alt="Storyboard" width="300">
+    <img src="doc/storyboard.png" alt="Storyboard" width="500">
 </p>
 
 ## Mockup
 <p>
-    <img src="doc/mockup.png" alt="Mockup" width="300">
+    <img src="doc/mockup.png" alt="Mockup" width="500">
 </p>
 
 ## UI
 <p>
-    <img src="doc/ui.png" alt="UI" width="300" height="200">
-    <img src="doc/design.png" alt="Design" width="300" height="200">
+    <img src="doc/ui.png" alt="UI" width="500">
+</p>
+
+<p>
+    <img src="doc/design.png" alt="Design" width="500">
 </p>
 
 ## 🛠 Pengembang
