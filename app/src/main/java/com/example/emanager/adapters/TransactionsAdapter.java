@@ -16,10 +16,7 @@ import com.example.emanager.models.Category;
 import com.example.emanager.models.Transaction;
 import com.example.emanager.utils.Constants;
 import com.example.emanager.utils.Helper;
-import com.example.emanager.views.activites.MainActivity;
-
-import java.text.SimpleDateFormat;
-import java.util.ArrayList;
+import com.example.emanager.views.activities.MainActivity;
 
 import io.realm.RealmResults;
 

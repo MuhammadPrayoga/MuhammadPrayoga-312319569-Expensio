@@ -11,14 +11,12 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.emanager.R;
 import com.example.emanager.adapters.TransactionsAdapter;
 import com.example.emanager.databinding.FragmentTransactionsBinding;
 import com.example.emanager.models.Transaction;
 import com.example.emanager.utils.Constants;
 import com.example.emanager.utils.Helper;
 import com.example.emanager.viewmodels.MainViewModel;
-import com.example.emanager.views.activites.MainActivity;
 import com.google.android.material.tabs.TabLayout;
 
 import java.util.Calendar;
