@@ -11,8 +11,6 @@
 
 - **Pencatatan Pengeluaran dan Pemasukan**: Simpan semua pengeluaran dan pemasukan dengan mudah.
 - **Analisis Keuangan**: Grafik dan laporan untuk membantu Anda memahami pola pengeluaran.
-- **Pengaturan Anggaran**: Tetapkan batas anggaran dan pantau pengeluaran harian.
-- **Notifikasi Pengingat**: Ingatkan kapan harus menyimpan atau berhenti berbelanja.
 - **Antarmuka Ramah Pengguna**: Desain yang sederhana dan mudah dipahami.
 
 ## 🚀 Teknologi yang Digunakan
